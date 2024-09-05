@@ -1,6 +1,5 @@
 # Banking-Application-using-Java
-Basic command line banking application. It is just a introduction mini project.
-
+Basic Banking Details Application Using Java
 
 ### OUTPUT :
 
@@ -118,7 +117,3 @@ Select any one option from below.
 Enter your option: 6
 Terminating...
 
-
-### Changes that you can make:
-
-Instead of using incremental account number you can use random function to generate random number and add it to accountNumber array.
